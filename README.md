@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**elargantiny16/elargantiny16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  # Hi, I'm Felo Philip 👋
+  🚀 IOY Ambassador | Robotics Educator | Hack Club Organizer
+  🇪🇬 Building the AI & Developer Community in Egypt
+  
+  ## 🛠️ What I'm working on:
+  - **BlueThread:** Encrypted P2P Bluetooth messenger for Android (AES-256-GCM).
+  - **Skyline Drift:** Custom pseudo-3D arcade game built in pure Vanilla JS for Hack Club.
+  
+  ## 🎯 Current Goal:
+  Organizing "Qwen Build Day Egypt" — a 150-person AI Hackathon to onboard the next generation of Egyptian developers into the open-source AI ecosystem!
