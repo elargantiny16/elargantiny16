@@ -1,4 +1,4 @@
-  # Hi, I'm Felo Philip 👋
+  # Hi, I'm Philopateer Philip 👋
   🚀 IOY Ambassador | Robotics Educator | Hack Club Organizer
   🇪🇬 Building the AI & Developer Community in Egypt
   
