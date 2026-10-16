@@ -1,5 +1,5 @@
   # Hi, I'm Philopateer Philip 👋
-  🚀 IOY Ambassador | Robotics Educator | Hack Club Organizer
+  🚀 IOY Ambassador | Robotics Educator | Hack Club Builder
   🇪🇬 Building the AI & Developer Community in Egypt
   
   ## 🛠️ What I'm working on:
